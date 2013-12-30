@@ -9,5 +9,6 @@ namespace AppLibrary
     public class App
     {
         public string Name { get; set; }
+	public int Age { get; set; }
     }
 }
